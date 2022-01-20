@@ -1,1 +1,1 @@
-trying to development things
+trying to develop things
