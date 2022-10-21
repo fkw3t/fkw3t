@@ -1,6 +1,13 @@
-trying to develop things...
+<h1 align="center">
+  trying to develop things...
+</h1>
 
-stacks/skills:
+<h3 align="center">
+  stacks/skills:
+</h3>
+
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
