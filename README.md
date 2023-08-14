@@ -11,19 +11,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,angular" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,kafka,php,go,laravel,js,ts,mysql,redis,nginx" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,aws,git,github,githubactions" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,nginx" />
-  </a>
-</p>
 
