@@ -1,17 +1,17 @@
 <h1 align="center">
-  trying to develop things...
+  trying to build things...
 </h1>
 
-<h3 align="center">
-  stacks/skills:
-</h3>
+<h4 align="center">
+  some major technologies that i commonly use
+</h4>
 
 
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,kafka,php,go,laravel,js,ts,mysql,redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,kafka,php,go,mysql,mongodb,redis,nginx" />
   </a>
 </p>
 
