@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,kafka,php,go,mysql,mongodb,redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,kafka,php,go,mysql,postgres,dynamodb,mongodb,redis,nginx,grafana,prometheus" />
   </a>
 </p>
 
